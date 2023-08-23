@@ -1,0 +1,246 @@
+.body{
+    background-color: black;
+}
+.first_fidi{
+    background-color: black;
+    padding:80px;
+}
+.icons_fidi{
+    display: flex;
+    height: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+.icons_fidi h2{
+    display: contents;
+    font-weight: 100;
+    font-family: 'Work Sans', sans-serif;
+    color: #FFFFFF;
+}
+.fidi_description p{
+    color: #FFFFFF;
+    padding: 94px;
+    font-size: 46px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.now{
+    display: flex;
+    justify-content: center;
+}
+.now button{
+    background-color: rgba(54, 57, 57, 0.382);
+    color: #FF7C03;
+    font-family: 'Work Sans', sans-serif;
+    border-radius: 12px;
+    border: none;
+    width: 230px;
+    height: 50px;
+    font-size: 20px;
+    margin-top: -90px;
+}
+
+.second_fidi{
+    background-color: rgb(39, 37, 37);
+    padding:86px;
+}
+.colors_angles{
+    display: flex;
+    justify-content: space-evenly
+}
+.colors_three{
+    margin-left: 100px;
+}
+.colors_three h2{
+    font-family: 'Work Sans', sans-serif;
+    color:#FF4D00;
+    text-underline-offset: 10px;
+    text-decoration:underline  rgb(221, 223, 227);
+    font-weight: normal;
+    line-height: 36.57px;
+    font-size: large;
+    margin-bottom: -6px;
+    display: grid;
+    justify-items: end;
+
+}
+.colors_three p{
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: lighter;
+    line-height: 22.33px;
+    text-align: end 
+}
+.second_angles{
+    margin-right: 100px;
+}
+.second_angles h2{
+color: white;
+font-family: 'Work Sans', sans-serif;
+text-decoration:underline rgb(221, 223, 227);
+text-underline-offset: 10px;
+font-weight: normal; 
+line-height:36.57px; 
+font-size: large;
+margin-bottom: -6px;
+}
+.second_angles p{
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: lighter;
+    line-height: 22.33px; 
+}
+.camera_colors{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 60px;
+}
+
+
+.third_fidi{
+    background-color: rgb(23, 21, 21);
+    padding:100px;
+}
+.all_icons h1{
+    padding:30px;
+    font-weight: normal;
+    color: #FF7C03;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 33px;
+    display:grid;
+    text-align: center;
+    line-height: 63px;
+    margin-top: -74px;
+}
+.first_icons{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto auto auto;
+    gap: 100px;
+}
+.home_icon{
+    background-color: rgb(63, 58, 58);
+    border-radius: 10px;
+    margin: auto;
+    border-width: 10px;   
+}
+
+
+.fourth_fidi{
+   background-color: rgb(53, 51, 51);
+   padding:150px;
+}
+.drive_one{
+    display: grid;
+    margin-top: 70px;
+}
+.google_drive p{
+    color: #FFFFFF;
+    font-family: 'Work Sans', sans-serif;
+    display: grid;
+    justify-content: center;
+    font-size: 24px;
+    margin-bottom: -12px
+}
+.designers_note p{
+    color: #FFFFFF;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 24px;
+    display: grid;
+    justify-content: center;
+
+}
+.drive_all{
+      display: flex;
+      gap: 43px;
+      justify-content: center;
+      margin-top:10px;
+}
+.drive_all img{
+    height: 50px;
+}
+.drive_now{
+    display: grid;
+    justify-content: center;
+    margin-top: 16px;
+}
+.drive_now button{
+    background-color: rgb(53, 51, 51);
+    color: #FF6B00;
+    border: none;
+    font-size: 24px;
+    height: 41px;
+    width: 200px;
+}
+
+
+.fifth_fidi{
+    background-color: rgb(20, 20, 20);
+    padding:40px;
+}
+.main_thing{
+    margin-top: 74px;
+}
+.main_thing h3{
+    color: #FF7C03 ;
+    font-family: 'Work Sans', sans-serif;
+    display: grid;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: normal;
+}
+.main_thing p{
+    color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+    font-family: 'Work Sans', sans-serif;
+    Line-height: 37.54px;
+    font-size: 23px;
+    font-weight: lighter;
+    margin-top: -30px;
+}
+.box_comments{
+    display: flex;
+    justify-content: center;  
+}
+.box_comments textarea{
+    background-color: rgb(5, 4, 4);
+    width: 412px;
+    height: 160px;
+    border-radius: 12px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: large;
+    border: none;
+    color: white;
+    padding-top: 1em
+}
+.box_comments img{
+    position: absolute;
+    margin-left: 360px;
+    margin-top: 12px;
+}
+.linkedin_pics{
+    display: flex;
+    justify-content: center;
+    gap:30px;
+    margin-top: 100px;
+}
+.linkedin_pics img{
+    height: 30px;
+}
+.site_fidi{
+    display: grid;
+    justify-content: center;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.site_fidi p{
+    color: #F5F5F5;
+    font-family: 'Work Sans', sans-serif;
+}
