@@ -3,7 +3,7 @@
 }
 .first_fidi{
     background-color: black;
-    padding:80px;
+    padding:100px;
 }
 .icons_fidi{
     display: flex;
@@ -20,7 +20,7 @@
 .fidi_description p{
     color: #FFFFFF;
     padding: 94px;
-    font-size: 46px;
+    font-size: 50px;
     font-family: 'Work Sans', sans-serif;
     font-weight: 100;
     text-align: center;
@@ -46,14 +46,14 @@
 
 .second_fidi{
     background-color: rgb(39, 37, 37);
-    padding:86px;
+    padding:100px;
 }
 .colors_angles{
     display: flex;
     justify-content: space-evenly
 }
 .colors_three{
-    margin-left: 100px;
+    margin-left: 140px;
 }
 .colors_three h2{
     font-family: 'Work Sans', sans-serif;
@@ -98,6 +98,8 @@ margin-bottom: -6px;
     display: flex;
     justify-content:space-between;
     margin-top: 60px;
+    gap: 52px;
+    margin-left: -10px;
 }
 
 
@@ -110,7 +112,7 @@ margin-bottom: -6px;
     font-weight: normal;
     color: #FF7C03;
     font-family: 'Work Sans', sans-serif;
-    font-size: 33px;
+    font-size: 53px;
     display:grid;
     text-align: center;
     line-height: 63px;
@@ -119,9 +121,9 @@ margin-bottom: -6px;
 .first_icons{
     display: grid;
     justify-content: center;
-    grid-template-columns: auto auto auto auto;
-    grid-template-rows: auto auto auto auto;
-    gap: 100px;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto auto auto auto;
+    gap: 80px;
 }
 .home_icon{
     background-color: rgb(63, 58, 58);
@@ -133,7 +135,7 @@ margin-bottom: -6px;
 
 .fourth_fidi{
    background-color: rgb(53, 51, 51);
-   padding:150px;
+   padding:170px;
 }
 .drive_one{
     display: grid;
@@ -144,13 +146,13 @@ margin-bottom: -6px;
     font-family: 'Work Sans', sans-serif;
     display: grid;
     justify-content: center;
-    font-size: 24px;
+    font-size: 30px;
     margin-bottom: -12px
 }
 .designers_note p{
     color: #FFFFFF;
     font-family: 'Work Sans', sans-serif;
-    font-size: 24px;
+    font-size: 30px;
     display: grid;
     justify-content: center;
 
@@ -162,18 +164,18 @@ margin-bottom: -6px;
       margin-top:10px;
 }
 .drive_all img{
-    height: 50px;
+    height: 70px;
 }
 .drive_now{
     display: grid;
     justify-content: center;
-    margin-top: 16px;
+    margin-top: 26px;
 }
 .drive_now button{
     background-color: rgb(53, 51, 51);
     color: #FF6B00;
     border: none;
-    font-size: 24px;
+    font-size: 28px;
     height: 41px;
     width: 200px;
 }
@@ -181,7 +183,7 @@ margin-bottom: -6px;
 
 .fifth_fidi{
     background-color: rgb(20, 20, 20);
-    padding:40px;
+    padding:60px;
 }
 .main_thing{
     margin-top: 74px;
@@ -191,7 +193,7 @@ margin-bottom: -6px;
     font-family: 'Work Sans', sans-serif;
     display: grid;
     justify-content: center;
-    font-size: 30px;
+    font-size: 36px;
     font-weight: normal;
 }
 .main_thing p{
@@ -200,7 +202,7 @@ margin-bottom: -6px;
     justify-content: center;
     font-family: 'Work Sans', sans-serif;
     Line-height: 37.54px;
-    font-size: 23px;
+    font-size: 36px;
     font-weight: lighter;
     margin-top: -30px;
 }
@@ -210,8 +212,8 @@ margin-bottom: -6px;
 }
 .box_comments textarea{
     background-color: rgb(5, 4, 4);
-    width: 412px;
-    height: 160px;
+    width: 470px;
+    height: 180px;
     border-radius: 12px;
     font-family: 'Work Sans', sans-serif;
     font-size: large;
@@ -221,7 +223,7 @@ margin-bottom: -6px;
 }
 .box_comments img{
     position: absolute;
-    margin-left: 360px;
+    margin-left: 400px;
     margin-top: 12px;
 }
 .linkedin_pics{
