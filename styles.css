@@ -98,10 +98,12 @@ margin-bottom: -6px;
     display: flex;
     justify-content:space-between;
     margin-top: 60px;
-    gap: 52px;
+    gap: 96px;
     margin-left: -10px;
 }
-
+.camera_colors img{
+    width: 300px;
+}
 
 .third_fidi{
     background-color: rgb(23, 21, 21);
@@ -246,3 +248,20 @@ margin-bottom: -6px;
     color: #F5F5F5;
     font-family: 'Work Sans', sans-serif;
 }
+
+
+
+@media (max-width:750px) {
+
+    .camera_colors img{
+        width: 130px;
+    } 
+}
+
+@media (max-width: 750px){
+    .first_icons img{
+        width: 70px; 
+    }
+}
+
+
